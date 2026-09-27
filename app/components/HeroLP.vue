@@ -9,7 +9,7 @@
         </div>
 
         <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight">
-          Hello there! 👋
+          Olá Mundo! 👋
         </h1>
 
         <p class="py-6 text-base text-base-content/80 max-w-lg mx-auto leading-relaxed">
