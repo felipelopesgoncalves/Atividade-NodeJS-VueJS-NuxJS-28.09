@@ -37,12 +37,12 @@ Nova página acessível em `/cadastro` (e com alias `/novo-membro`) contendo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/felipelopesgoncalves/Atividade-NodeJS-VueJS-NuxJS-28.09.git
    ```
 
 2. **Acesse a pasta do projeto**:
    ```bash
-   cd <NOME_DA_PASTA_DO_REPOSITORIO>
+   cd Atividade-NodeJS-VueJS-NuxJS-28.09
    ```
 
 3. **Instale as dependências**:
