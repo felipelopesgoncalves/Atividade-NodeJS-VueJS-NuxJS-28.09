@@ -11,17 +11,17 @@
         <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow-lg bg-base-100 rounded-box w-52 border border-base-200">
           <li>
             <NuxtLink to="/" active-class="active" class="font-medium">
-              🏠 Início
+              Início
             </NuxtLink>
           </li>
           <li>
             <NuxtLink to="/example" active-class="active" class="font-medium">
-              💻 Exemplo (Video)
+              Exemplo (Video)
             </NuxtLink>
           </li>
           <li>
             <NuxtLink to="/cadastro" active-class="active" class="font-medium">
-              📝 Cadastro de Membro
+              Cadastro de Membro
             </NuxtLink>
           </li>
         </ul>

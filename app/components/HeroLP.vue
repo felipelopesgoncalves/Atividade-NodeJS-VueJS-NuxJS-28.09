@@ -3,7 +3,7 @@
     <div class="hero-content text-center py-12">
       <div class="max-w-xl">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 text-emerald-600 text-xs font-semibold mb-4 border border-emerald-500/20">
-          <span>🚀 Ecossistema Moderno</span>
+          <span>Ecossistema Moderno</span>
           <span>•</span>
           <span>Node.js, Vue 3 & Nuxt 4</span>
         </div>
