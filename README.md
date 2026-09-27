@@ -1,4 +1,4 @@
-# Atividade Prática: Ecossistema Moderno (Node.js + Vue.js + Nuxt 4)
+# Atividade Prática Node.js + Vue.js + Nuxt 4
 
 Este projeto foi desenvolvido como parte da atividade prática para consolidar o aprendizado sobre o ecossistema moderno de desenvolvimento web com **Node.js**, **Vue.js 3** e **Nuxt 4**.
 
